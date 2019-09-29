@@ -17,7 +17,7 @@
 * Some Articles will be availbale to only Premium Membership.
 
 
-** Screenshots**
+** Screenshots **
 ![Home view](Images/home.png)
 
 ![Join view](Images/join.png)
